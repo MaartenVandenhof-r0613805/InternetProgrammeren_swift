@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tourism">
+    <output-path>$PROJECT_DIR$/out/artifacts/tourism</output-path>
+    <root id="archive" name="tourism.war" />
+  </artifact>
+</component>
